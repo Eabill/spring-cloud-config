@@ -1,8 +1,0 @@
-spring:
-  datasource.druid:
-    name: myava-ds
-    url: jdbc:mysql://localhost:3306?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
-    username: root
-    password: KeojyHOZi9gjElwViRzmObcOX5VXD52lhhVkSAWjpaXIZaUn7Ah1lrz8+P5QlZ7rOANYcu2R7oJbi596VWFkEg==
-    connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=1;druid.stat.logSlowSql=true;config.decrypt=true;config.decrypt.key=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJt5Imp8lpW/6Hp/n3m7JT1ie+ZcHq2XUrfwgSjMktJNc0RiFifoz4ktOXFFeQnKWMktTTB7pNFpfdR9xQq4xusCAwEAAQ==
- 
