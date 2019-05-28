@@ -1,3 +1,4 @@
+# redis配置信息
 spring:
   redis:
     database: 0
